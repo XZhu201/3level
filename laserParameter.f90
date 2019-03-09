@@ -4,7 +4,7 @@ implicit none
     ! intensity and wavelength
    doubleprecision, parameter :: E0 = 0.037677686771342
    doubleprecision, parameter :: E1 = 0.075355373542683
-   doubleprecision, parameter :: w0 = 0.001627269045612   ! 28000 nm
+   doubleprecision, parameter :: w0 = 0.001627269045612 
    doubleprecision, parameter :: w1 = 0.003254538091224
 
     ! pulse shape
